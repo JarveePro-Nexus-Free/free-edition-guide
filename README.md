@@ -20,6 +20,8 @@ This guide is designed for beginners, creators, marketers, small businesses, and
 ## Supported Social Media Platforms
 
 The free edition supports these 10 core platforms:
+<img width="2449" height="1390" alt="image" src="https://github.com/user-attachments/assets/920cb44d-fd27-44d8-9ec6-aee4136c4848" />
+
 
 | Platform | Common Use |
 |---|---|
